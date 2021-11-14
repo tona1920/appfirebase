@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711654620611",
+    "firebase_url": "https://bd-usuarios-app-default-rtdb.firebaseio.com",
+    "project_id": "bd-usuarios-app",
+    "storage_bucket": "bd-usuarios-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711654620611:android:a3700433f9918d63de9176",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.appfirebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711654620611-7u0pdv9qcg5a45dk55aog3t2at33obue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPV4SLMhCjWcg1xO4nxuq4xdZ7PgDx8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711654620611-7u0pdv9qcg5a45dk55aog3t2at33obue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
